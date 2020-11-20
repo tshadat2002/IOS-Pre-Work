@@ -2,7 +2,7 @@
 ### App Description
 App can take user input of text and change text, change background color, reset background color, and change color of text.
 
-### App Walk-though
+### App Walk-through
 <img src="http://g.recordit.co/k2H5p77DhH.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
