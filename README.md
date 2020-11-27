@@ -3,7 +3,7 @@
 App can take user input of text and change text, change background color, reset background color, and change color of text.
 
 ### App Walk-through
-<img src="http://g.recordit.co/k2H5p77DhH.gif" width=200><br>
+<img src="http://g.recordit.co/lmNQDMB4xg.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -17,5 +17,5 @@ App can take user input of text and change text, change background color, reset 
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [] c. If the text field is empty, update label with default text string.
-   - [] d. The keyboard is dismissed after the button has been tapped.
+   - [x] c. If the text field is empty, update label with default text string.
+   - [x] d. The keyboard is dismissed after the button has been tapped.
